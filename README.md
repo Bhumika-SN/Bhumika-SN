@@ -7,9 +7,9 @@
  
  -  💻 Building in **Java, Spring Boot, Kotlin**
  
- -  🧩 LinkedIn - ![Bhumika S N](https://www.linkedin.com/in/bhumika-s-n-87a616383/)
+ -  🔗 LinkedIn - [Bhumika S N](https://www.linkedin.com/in/bhumika-s-n-9152a6295/)
 
- -  ✉️ Mail - ![bhumikasnn.dev@gmail.com](mailto:bhumikasnn.dev@gmail.com)
+ -  ✉️ Mail - [bhumikasnn.dev@gmail.com](mailto:bhumikasnn.dev@gmail.com)
 
 
 ## 📊 GitHub Stats:

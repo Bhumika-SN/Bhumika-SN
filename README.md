@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhumika</h1>
 <h3 align="center">Passionate Java backend Developer</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumika-sn&label=Profile%20views&color=0e75b6&style=flat" alt="bhumika-sn" /> </p>
 
  -  🎓 Specializing in **Computer Science and Engineering.**  

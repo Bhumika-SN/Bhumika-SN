@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumika-sn&label=Profile%20views&color=0e75b6&style=flat" alt="bhumika-sn" /> </p>
  -  🎓 Specializing in **Computer Science and Engineering.**  
  
- -  💻 Building in **Java, Spring Boot, Kotlin**
+ -  💻 Building in **Java, Spring Boot**
  
  -  🔗 LinkedIn - [Bhumika S N](https://www.linkedin.com/in/bhumika-s-n-9152a6295/)
 

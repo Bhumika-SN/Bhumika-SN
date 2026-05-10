@@ -15,7 +15,7 @@
 
 
 
-🔧 Building Jolt <br>🌍 Open Source Contributor @ JBang <br>🧠 Daily DSA Practice <br>⚙️ Learning System Design , Spring & Spring Boot
+🔧 Building Jolt <br>🌍 Open Source Contributor @ [jbangdev/jbang](https://github.com/jbangdev/jbang) <br>🧠 Daily DSA Practice <br>⚙️ Learning System Design , Spring & Spring Boot
 
 
 
